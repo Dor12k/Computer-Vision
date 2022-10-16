@@ -1,6 +1,6 @@
 # Computer-Vision
 
-## In this project: Object Detection, Object Tracking, Transformations for images in python
+## In this project: Object Detection, Object Tracking and Transformations for images in python
 
 ### Multiple Object Tracking
 
